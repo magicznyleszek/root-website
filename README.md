@@ -4,6 +4,7 @@ Root for the new me
 
 Things to do:
 
+* [ ] rename github account
 * [ ] copy current root website here
 * [ ] change email and other addresses on website here
 * [ ] rename instagram(s)
