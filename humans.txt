@@ -1,0 +1,12 @@
+## TEAM
+
+Everything: Leszek Pietrzak
+Site: magicznyleszek.com
+Email: magicznyleszek@gmail.com
+Location: CET Timezone
+
+## SITE
+
+Last update: 2018/01
+Language: English
+Software: Atom

@@ -1,15 +1,22 @@
 # magicznyleszek
 
-Root for the new me
+My content-first root website. No CSS, no JS, no BS.
 
-Things to do:
+Features:
 
-* [ ] rename github account
-* [ ] copy current root website here
+- HTML
+- 1 image
+
+:micdrop:
+
+## Things to do:
+
+* [x] rename github account
+* [x] copy current root website here
 * [ ] change email and other addresses on website here
-* [ ] rename instagram(s)
+* [x] rename instagram(s)
 * [ ] create new animation
-* [ ] configure gmail to use new email
+* [x] configure gmail to use new email
 * [ ] go through important websites from lastpass to change email(?)
 * [ ] go through important websites to use new website address
-* [ ] set smutnyleszek.com to redirect to magicznyleszek.xyz
+* [ ] set magicznyleszek.com to redirect to magicznyleszek.xyz
