@@ -1,4 +1,4 @@
-# magicznyleszek
+# zefirefemera.xyz
 
 My content-first root website. No CSS, no JS, no BS.
 

@@ -1,12 +1,12 @@
 ## TEAM
 
-Everything: Leszek Pietrzak
-Site: magicznyleszek.xyz
-Email: leszek@magicznyleszek.xyz
+Everything: Zefir Efemera
+Site: zefirefemera.xyz
+Email: zefirefemera@proton.me
 Location: CET Timezone
 
 ## SITE
 
-Last update: 2018/09
+Last update: 2022
 Language: English
-Software: Atom
+Software: Sublime Text
